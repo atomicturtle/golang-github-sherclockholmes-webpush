@@ -15,7 +15,7 @@ Web Push API Encryption with VAPID support.}
 %global godocs          example README.md
 
 Name:           golang-github-sherclockholmes-webpush
-Release:        1
+Release:        1%{?dist}
 Summary:        Web Push API Encryption with VAPID support
 
 License:        MIT
